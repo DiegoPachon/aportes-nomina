@@ -1,0 +1,27 @@
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.exe.config
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.exe
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.pdb
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csprojAssemblyReference.cache
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Form1.resources
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Properties.Resources.resources
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.GenerateResource.cache
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.CoreCompileInputs.cache
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.exe
+C:\Users\Hermanos\source\repos\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.pdb
+F:\Pro II\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.exe.config
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.exe
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.pdb
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csprojResolveAssemblyReference.cache
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Form1.resources
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Properties.Resources.resources
+F:\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.GenerateResource.Cache
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.exe.config
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.exe
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\bin\Debug\Recibo de nomina.pdb
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo_de_nomina.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.exe
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.pdb
+C:\Users\diego\OneDrive\Escritorio\Memoria\Pro II\Recibo de nomina\Recibo de nomina\obj\Debug\Recibo de nomina.csproj.AssemblyReference.cache
